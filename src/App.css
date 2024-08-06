@@ -77,21 +77,6 @@ body {
 }
 
 /* output component css */
-/* .output_container {
-  /* width: 920px; */
-  /* min-height: 1500px; */
-  /* border: 1px solid #fff; */
-  /* background-color: #fff; */
-  /* padding: 40px; */
-  /* box-shadow: 2px 2px 2px 5px #fff; */
-  /* margin-bottom: 20px; */
-/* } */ 
-
-
-.output_container{
-  display: flex;
-  justify-content: center;
-}
 
 .output_mainContainer {
   display: flex;
